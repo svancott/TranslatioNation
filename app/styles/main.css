@@ -1,0 +1,17 @@
+/*these are pretty much all for home.html*/
+
+.jumbotron {
+  background-color: darkgrey;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.nav {
+  background-color: black;
+}
+
+.nav-pills {
+  color: white;
+}
+nav {
+  text-align: center;
+}
